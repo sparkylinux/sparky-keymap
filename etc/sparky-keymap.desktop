@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Sparky Keymap
+Comment=Sparky Keymap
+Exec=/usr/bin/sparky-keymap-tray /opt/sparky/sparky-menu-keymap
+Icon=preferences-desktop-keyboard
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=Applications;System
+
